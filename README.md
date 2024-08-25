@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome] 👋
 
-<!--
-**FernandoDevH/FernandoDevH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia e programação. Adoro aprender coisas novas e estou sempre em busca de desafios empolgantes.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estou aprendendo **Python**, **SQL** e **Data Science**.
+- 💬 Pergunte-me sobre **Python**, **JavaScript** e **Desenvolvimento Web**.
+- 📫 Como me encontrar: devfernandohsilva@gmail.com
+- ⚡ Curiosidade: Adoro resolver enigmas e desafios de lógica .
+
+## 💼 Experiência Profissional
+
+### Atualmente estou como Analista de Negócios em TI na Secretaria de Planejamento e Gestão do Estado de Minas Gerais (SEPLAG-MG)
+
+- **Identificação e Análise de Necessidades**: Entender as necessidades do negócio e traduzi-las em requisitos de TI.
+- **Desenvolvimento de Soluções**: Participar do desenvolvimento de soluções tecnológicas alinhadas aos objetivos da organização.
+- **Análise de Processos**: Realizar análise de processos e identificar oportunidades de otimização.
+- **Alinhamento de Negócios e TI**: Garantir o alinhamento entre as áreas de negócio e tecnologia.
+- **Suporte e Treinamento**: Prestar suporte e treinamento aos usuários das soluções implementadas.
+
+## 🛠️ Tecnologias e Ferramentas
+
+!Python
+!JavaScript
+!HTML
+!CSS
+!Git
+!GitHub
+
+## 📈 Estatísticas do GitHub
+
+!Estatísticas do GitHub
+!Linguagens Mais Usadas
+
+## 🌐 Conecte-se Comigo
+
+!LinkedIn
+!https://www.linkedin.com/in/fernandodevh
+---
