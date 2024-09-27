@@ -13,7 +13,7 @@
 
 Sou apaixonado por tecnologia e programação. Adoro aprender coisas novas e estou sempre em busca de desafios.
 <p align="justify">
-Com experiência abrangente na gestão de projetos de tecnologia da informação, desde a análise de requisitos até a entrega de soluções. Tenho habilidades em comunicação, liderança, negociação e resolução de problemas, sempre com foco claro em identificar oportunidades de melhoria e otimização de processos.
+Com experiência abrangente na gestão de projetos de tecnologia da informação, desde a análise de requisitos até a entrega de soluções. Tenho habilidades em comunicação, liderança, negociação e resolução de problemas, sempre com foco em identificar oportunidades de melhoria e otimização de processos.
 </p>
 
 - 🌱 Atualmente estou aprendendo **Python**, **SQL** e **Data Science**.
