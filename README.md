@@ -60,14 +60,17 @@ Com experiência abrangente na gestão de projetos de tecnologia da informação
 <br/>
 
 ## 📊 Estatísticas
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDevH&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-
-## 
-<div align="center"><a href="https://www.linkedin.com/in/fernandodevh" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<div align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FernandoDevH&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Langs" height="165px" />
 </div>
 
-
-
+## 🔗 Redes Sociais
+<div align="center">
+  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/fernan.show" target="_blank" rel="noopener noreferrer">
+    <img src="https://shields.io" alt="Instagram">
+  </a>
+</div>
 
