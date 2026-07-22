@@ -65,12 +65,8 @@ Com experiência abrangente na gestão de projetos de tecnologia da informação
 </div>
 
 ## 🔗 Redes Sociais
-<div align="center">
-  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/fernan.show" target="_blank" rel="noopener noreferrer">
-    <img src="https://shields.io" alt="Instagram">
-  </a>
-</div>
+
+* 💼 [LinkedIn: ](https://www.linkedin.com/in/fernandodevh/)
+* 📸 [Instagram: ](https://instagram.com/fernan.show)
+
 
