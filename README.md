@@ -66,7 +66,7 @@ Com experiência abrangente na gestão de projetos de tecnologia da informação
 
 ## 🔗 Redes Sociais
 
-* 💼 [LinkedIn: ](https://www.linkedin.com/in/fernandodevh/)
-* 📸 [Instagram: ](https://instagram.com/fernan.show)
+* 💼 [LinkedIn ](https://www.linkedin.com/in/fernandodevh/)
+* 📸 [Instagram ](https://instagram.com/fernan.show)
 
 
